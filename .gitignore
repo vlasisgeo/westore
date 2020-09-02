@@ -1,0 +1,13 @@
+westore/__pycache__/__init__.cpython-38.pyc
+westore/__pycache__/schema.cpython-38.pyc
+westore/__pycache__/settings.cpython-38.pyc
+westore/__pycache__/urls.cpython-38.pyc
+westore/__pycache__/wsgi.cpython-38.pyc
+westore/products/__pycache__/__init__.cpython-38.pyc
+westore/products/__pycache__/admin.cpython-38.pyc
+westore/products/__pycache__/models.cpython-38.pyc
+westore/products/__pycache__/schema.cpython-38.pyc
+westore/products/migrations/__pycache__/__init__.cpython-38.pyc
+westore/products/migrations/__pycache__/0001_initial.cpython-38.pyc
+db.sqlite3
+westore/_schema.py
